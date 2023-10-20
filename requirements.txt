@@ -1,0 +1,6 @@
+flask
+request
+render_template
+numpy
+pandas
+pickle
